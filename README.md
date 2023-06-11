@@ -10,9 +10,12 @@ The word list for checking whether or not any comination of letters formed a wor
 https://sourceforge.net/projects/wordlist/files/speller/2020.12.07/wordlist-en_US-large-2020.12.07.zip/download
 
 After running `python pz4-ws.py`, the following are the words that were found:
+
 Key: word found - pigpen pattern - wordsearch row, wordsearch column
+
 (rows and columns start at 0)
 
+```
 theta - g or p - 0,6
 terry - i or r - 0,6
 anger - s or w - 0,9
@@ -62,3 +65,4 @@ taxis - a or j - 13,11
 havre - g or p - 14,8
 torture - f or o - 15,5
 vexed - i or r - 15,13
+```
